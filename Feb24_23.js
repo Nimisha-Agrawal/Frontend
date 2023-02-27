@@ -12,3 +12,4 @@ export default function once(func) {
     return value;
   };
 }
+
